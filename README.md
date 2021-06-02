@@ -5,23 +5,24 @@
 
 Software that can generate a photo of an animal based on its skeleton and a photo of an animal's skeleton based on its animal
 
-# Developers students: 
+
+## Developers students: 
 
 Fedosenko Maxim
 
 Vasilenko Vladislav
 
-# Project presentation: https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1
+## Project presentation: https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1
 
-# Used dataset (1000+ paired images): https://drive.google.com/drive/u/0/folders/1I8upXHQT9WA9wT2T8k0IO6OiQajv_AB-
+## Used dataset (1000+ paired images): https://drive.google.com/drive/u/0/folders/1I8upXHQT9WA9wT2T8k0IO6OiQajv_AB-
 
-# This repository contains two neural networks:
+### This repository contains two neural networks:
 
 pix2pix generates an animal based on the skeleton
 
 pix2pix_rev generates a skeleton based on an animal
 
-# Explanation of the files in the folder:
+### Explanation of the files in the folder:
 
 crt_ftable- script for creating a training and validation table (*starts first)
 
@@ -41,11 +42,11 @@ eval- the script demonstrates the operation of the neurowork
 *For the network to work, you need to download the dataset to the folder
 
 
-# software
+### software
 
 Especially for these neural networks, a small application was made on a PC
 
-# link:   
+#### [link](https://drive.google.com/drive/u/0/folders/1PXJF2LKQo4GgF8Ba_iF4qwESzwcyU7i8)   
 
 The program already contains the necessary weights to work with this version of the neural network
 
@@ -55,7 +56,7 @@ The "преобразовать в скелет" button inverts the neural netwo
 
 *If you have trained your neural network and want to use our program, you need to replace the weight files in prog/pix2pix
 
-# Demonstration of the neural network operation:
+### Demonstration of the neural network operation:
 
 ![image](https://user-images.githubusercontent.com/59373737/120548940-a0634500-c3fb-11eb-9d91-dcd2c7beaeee.png)
 
@@ -69,7 +70,7 @@ As a result of the training, the network has learned to generate images, but rat
 
 We believe that if you increase the power for training the neural network and increase the size of the dataset, you can improve the network performance and similar results will be generated less
 
-
+<br><br><br>
 
 This project was developed as a course work on the subject "Machine learning and intelligent systems" 
 
