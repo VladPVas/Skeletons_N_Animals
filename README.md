@@ -17,10 +17,16 @@ pix2pix_rev generates a skeleton based on an animal
 
 # Explanation of the files in the folder:
 crt_ftable- script for creating a training and validation table (*starts first)
+
 data_utils- functions for generating training pairs and augmenting them
+
 model- the model structure is described
+
 tf_losses- the loss functions are described
+
 train_model- the main script for training (*starts second)
+
 eval- the script demonstrates the operation of the neurowork
+
 
 *For the network to work, you need to download the dataset to the folder
