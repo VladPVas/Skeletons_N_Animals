@@ -71,6 +71,7 @@ As a result of the training, the network has learned to generate images, but rat
 We believe that if you increase the power for training the neural network and increase the size of the dataset, you can improve the network performance and similar results will be generated less
 
 <br><br><br>
+------------------------------------------------------------------------------
 
 This project was developed as a course work on the subject "Machine learning and intelligent systems" 
 
