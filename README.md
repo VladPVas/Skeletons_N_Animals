@@ -47,4 +47,16 @@ The "преобразовать в скелет" button inverts the neural netwo
 
 *If you have trained your neural network and want to use our program, you need to replace the weight files in prog/pix2pix
 
+# Demonstration of the neural network operation:
+
+![image](https://user-images.githubusercontent.com/59373737/120548940-a0634500-c3fb-11eb-9d91-dcd2c7beaeee.png)
+
+
+![image](https://user-images.githubusercontent.com/59373737/120548989-abb67080-c3fb-11eb-8011-e9f825502320.png)
+
+
+As a result of the training, the network has learned to generate images, but rather blurry and inaccurate. You can get similar results on some images:
+
+![image](https://user-images.githubusercontent.com/59373737/120549128-d1dc1080-c3fb-11eb-85ed-253af139a973.png)
+
 
