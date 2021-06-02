@@ -4,6 +4,7 @@ Software that can generate a photo of an animal based on its skeleton and a phot
 
 # Developers students: 
 Fedosenko Maxim
+
 Vasilenko Vladislav
 
 # Project presentation: https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1
@@ -11,6 +12,7 @@ Vasilenko Vladislav
 
 # This repository contains two neural networks:
 pix2pix generates an animal based on the skeleton
+
 pix2pix_rev generates a skeleton based on an animal
 
 # Explanation of the files in the folder:
