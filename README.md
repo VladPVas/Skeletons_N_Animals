@@ -8,7 +8,7 @@ Software that can generate a photo of an animal based on its skeleton and a phot
 
 ## Developers students: 
 
-Fedosenko Maxim
+Fedosenko Maxim 
 
 Vasilenko Vladislav
 
