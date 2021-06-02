@@ -3,19 +3,23 @@
 Software that can generate a photo of an animal based on its skeleton and a photo of an animal's skeleton based on its animal
 
 # Developers students: 
+
 Fedosenko Maxim
 
 Vasilenko Vladislav
 
 # Project presentation: https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1
+
 # Used dataset (1000+ paired images): https://drive.google.com/drive/u/0/folders/1I8upXHQT9WA9wT2T8k0IO6OiQajv_AB-
 
 # This repository contains two neural networks:
+
 pix2pix generates an animal based on the skeleton
 
 pix2pix_rev generates a skeleton based on an animal
 
 # Explanation of the files in the folder:
+
 crt_ftable- script for creating a training and validation table (*starts first)
 
 data_utils- functions for generating training pairs and augmenting them
@@ -35,6 +39,7 @@ eval- the script demonstrates the operation of the neurowork
 
 
 # software
+
 Especially for these neural networks, a small application was made on a PC
 
 # link:   
@@ -59,4 +64,11 @@ As a result of the training, the network has learned to generate images, but rat
 
 ![image](https://user-images.githubusercontent.com/59373737/120549128-d1dc1080-c3fb-11eb-85ed-253af139a973.png)
 
+We believe that if you increase the power for training the neural network and increase the size of the dataset, you can improve the network performance and similar results will be generated less
+
+
+
+This project was developed as a course work on the subject "Machine learning and intelligent systems" 
+
+by students of the 3rd year of the group IDB-18-09
 
