@@ -1,5 +1,8 @@
 # Skeletons & Animals
 
+![image](https://user-images.githubusercontent.com/59373737/120549838-c3422900-c3fc-11eb-852e-345b29f54a38.png)
+
+
 Software that can generate a photo of an animal based on its skeleton and a photo of an animal's skeleton based on its animal
 
 # Developers students: 
