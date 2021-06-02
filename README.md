@@ -26,7 +26,25 @@ tf_losses- the loss functions are described
 
 train_model- the main script for training (*starts second)
 
+*To increase the learning power, you need to replace the parameter GLOBAL_M = 32  with a larger value, for example 64
+
+
 eval- the script demonstrates the operation of the neurowork
 
-
 *For the network to work, you need to download the dataset to the folder
+
+
+# software
+Especially for these neural networks, a small application was made on a PC
+
+# link:   
+
+The program already contains the necessary weights to work with this version of the neural network
+
+To launch the application, you need to open the file prog.exe and upload images. 
+
+The "преобразовать в скелет" button inverts the neural network and allows you to generate an animal skeleton based on its image.
+
+*If you have trained your neural network and want to use our program, you need to replace the weight files in prog/pix2pix
+
+
