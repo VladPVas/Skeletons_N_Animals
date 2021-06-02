@@ -46,7 +46,7 @@ eval- the script demonstrates the operation of the neurowork
 
 Especially for these neural networks, a small application was made on a PC
 
-#### [link](https://drive.google.com/drive/u/0/folders/1PXJF2LKQo4GgF8Ba_iF4qwESzwcyU7i8)   
+## [link](https://drive.google.com/drive/u/0/folders/1PXJF2LKQo4GgF8Ba_iF4qwESzwcyU7i8)   
 
 The program already contains the necessary weights to work with this version of the neural network
 
