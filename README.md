@@ -12,9 +12,9 @@ Fedosenko Maxim
 
 Vasilenko Vladislav
 
-## Project presentation: https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1
+## [Project presentation](https://docs.google.com/presentation/d/1u2XB4frWrKLC3IF9PyfLpp70SFf2xA6u/edit#slide=id.p1)
 
-## Used dataset (1000+ paired images): https://drive.google.com/drive/u/0/folders/1I8upXHQT9WA9wT2T8k0IO6OiQajv_AB-
+## [Used dataset (1000+ paired images)](https://drive.google.com/drive/u/0/folders/1I8upXHQT9WA9wT2T8k0IO6OiQajv_AB-)
 
 ### This repository contains two neural networks:
 
