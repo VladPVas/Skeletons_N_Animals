@@ -73,7 +73,5 @@ We believe that if you increase the power for training the neural network and in
 <br><br><br>
 ------------------------------------------------------------------------------
 
-## This project was developed as a course work on the subject "Machine learning and intelligent systems" 
-
-## by students of the 3rd year of the group IDB-18-09
+## This project was developed as a course work on the subject "Machine learning and intelligent systems" by students of the 3rd year of the group IDB-18-09
 
